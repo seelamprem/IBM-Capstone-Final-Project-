@@ -11,13 +11,14 @@ This repository contains my Capstone Project (IBM Data Science Specialisation) c
 
 # 1. Project details on assignments & practise tests in notebooks
 
-- **Data-Wrangling ──> Data wrangling notebooks and datasets**
-- **EDA with SQL ──> SQL-based exploratory data analysis**
-- **EDA-with-Visualization/──> Visualization notebooks**
-- **Folium ──> Geospatial analysis with Folium**
-- **SpaceX-API ──>Data collection via SpaceX API**
-- **Dashboard ──> app.py  ──> requirements.txt ──> Spacex_launch_dash.csv    **
-- **SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb (dataset_part_3.csv)**
+- Data collection and data wrangling methodology
+- EDA and interactive visual analytics methodology​
+- Predictive analysis methodology
+- EDA with visualization results
+- EDA with SQL results​
+- Interactive map results using Folium
+- Plotly Dash dashboard results
+- Predictive analysis (classification) 
 
 # 2. Notebooks & Modules
 - Data Wrangling: Cleaning and preparing SpaceX datasets.

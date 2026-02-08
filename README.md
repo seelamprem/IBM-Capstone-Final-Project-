@@ -1,4 +1,4 @@
-# IBM-Capstone-Final-Project-
+# IBM-Capstone-Final-Project
 This repository contains my Capstone Project (IBM Data Science Specialisation) creating a presentation that summarizes my results of all tasks completed in the previous modules and labs. The project reports all data science workflows, data collections, EDA, visualisation, data wrangling, ML assignments using juypter notebook and dashboard development. The capstone project is all about the SpaceX Falcone 9 first stage langings. 
 
 # Table of Contents
